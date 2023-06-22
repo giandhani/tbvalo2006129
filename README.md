@@ -1,4 +1,4 @@
-# navigator_apps
+# valo
 
 praktikum pertemuan ke 05
 membahasa mengenai layouting dan navigator 2.0
@@ -13,10 +13,10 @@ membahasa mengenai layouting dan navigator 2.0
 
 ## Berikut Tampilan nya
 <div>
-  <img src="https://github.com/zamzamnurahman/Practicum_Flutter/blob/2185a7f1baf35e7ffcbe688fa39d60be987e4ce8/navigator_apps/img/homescreen.png" alt="Home screen" width="200"/>
+  <img src="https://github.com/zamzamnurahman/Practicum_Flutter/blob/2185a7f1baf35e7ffcbe688fa39d60be987e4ce8/valo/img/homescreen.png" alt="Home screen" width="200"/>
   
-<img src="https://github.com/zamzamnurahman/Practicum_Flutter/blob/2185a7f1baf35e7ffcbe688fa39d60be987e4ce8/navigator_apps/img/news_list.png" alt="News Screen" width="200"/>
+<img src="https://github.com/zamzamnurahman/Practicum_Flutter/blob/2185a7f1baf35e7ffcbe688fa39d60be987e4ce8/valo/img/news_list.png" alt="News Screen" width="200"/>
 
-<img src="https://github.com/zamzamnurahman/Practicum_Flutter/blob/2185a7f1baf35e7ffcbe688fa39d60be987e4ce8/navigator_apps/img/news_detail.png" alt="News Detail screen" width="200"/>
+<img src="https://github.com/zamzamnurahman/Practicum_Flutter/blob/2185a7f1baf35e7ffcbe688fa39d60be987e4ce8/valo/img/news_detail.png" alt="News Detail screen" width="200"/>
 
 </div>

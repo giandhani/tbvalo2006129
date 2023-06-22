@@ -1,6 +1,6 @@
 {
-    "name": "navigator_apps",
-    "short_name": "navigator_apps",
+    "name": "valo",
+    "short_name": "valo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

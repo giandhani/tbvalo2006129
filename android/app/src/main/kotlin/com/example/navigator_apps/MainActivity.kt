@@ -1,4 +1,4 @@
-package com.example.navigator_apps
+package com.example.valo
 
 import io.flutter.embedding.android.FlutterActivity
 

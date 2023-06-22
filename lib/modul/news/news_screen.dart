@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:navigator_apps/data/news_data.dart';
-import 'package:navigator_apps/models/news.dart';
-import 'package:navigator_apps/modul/home/header_widget.dart';
-import 'package:navigator_apps/widget/news_item_widget.dart';
+import 'package:valo/data/news_data.dart';
+import 'package:valo/models/news.dart';
+import 'package:valo/modul/home/header_widget.dart';
+import 'package:valo/widget/news_item_widget.dart';
 
 class NewsScreen extends StatelessWidget {
   const NewsScreen({super.key});

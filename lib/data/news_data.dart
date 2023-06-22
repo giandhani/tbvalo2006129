@@ -1,4 +1,4 @@
-import 'package:navigator_apps/models/news.dart';
+import 'package:valo/models/news.dart';
 
 List<News> newsData = [
   News(

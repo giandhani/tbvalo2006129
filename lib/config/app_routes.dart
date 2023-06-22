@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:navigator_apps/models/news.dart';
-import 'package:navigator_apps/modul/home/home_screen.dart';
-import 'package:navigator_apps/modul/news_detail/new_detail_screen.dart';
+import 'package:valo/models/news.dart';
+import 'package:valo/modul/home/home_screen.dart';
+import 'package:valo/modul/news_detail/new_detail_screen.dart';
 
 import '../models/user.dart';
 import '../modul/splashscreen/splash_screen.dart';
@@ -33,11 +33,11 @@ class AppRoutes {
     } else {
       user = User(
         id: 000,
-        name: "No name",
-        userName: "no name",
-        email: "email@example.com",
+        name: "lilpogchamp",
+        userName: "vdkdz",
+        email: "vdkdz@example.com",
         profileImage:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twitch.tv%2Fspicyuuu&psig=AOvVaw1EBhVA6brZu0NmZw0KOPnX&ust=1687504632700000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiboeSq1v8CFQAAAAAdAAAAABAE",
         phoneNumber: "+123456789",
       );
     }

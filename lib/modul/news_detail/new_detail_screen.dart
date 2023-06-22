@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:navigator_apps/models/news.dart';
+import 'package:valo/models/news.dart';
 
 class NewsDetailScreen extends StatelessWidget {
   NewsDetailScreen({super.key, required this.news});

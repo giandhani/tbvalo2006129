@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:navigator_apps/config/app_routes.dart';
+import 'package:valo/config/app_routes.dart';
 
 void main() {
   runApp(const MainApp());
@@ -16,7 +16,7 @@ class MainApp extends StatelessWidget {
         useMaterial3: true,
         colorSchemeSeed: Colors.white,
       ),
-      title: "Apps Pertemuan 5",
+      title: "ValoLore",
       routeInformationProvider: AppRoutes.goRouter.routeInformationProvider,
       routerDelegate: AppRoutes.goRouter.routerDelegate,
       routeInformationParser: AppRoutes.goRouter.routeInformationParser,

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:navigator_apps/modul/menu/menu_screen.dart';
-import 'package:navigator_apps/modul/news/news_screen.dart';
+import 'package:valo/modul/menu/menu_screen.dart';
+import 'package:valo/modul/news/news_screen.dart';
 
 import '../../models/user.dart';
 import 'header_widget.dart';
