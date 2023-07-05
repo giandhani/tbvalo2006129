@@ -10,6 +10,15 @@ dependencies:
   flutter:
     sdk: flutter
   go_router: ^6.5.0
+  youtube_player_flutter: ^8.1.2
+  cached_network_image: ^2.2.0+1
+  sqflite: ^2.2.6
+  flutter_launcher_icons: ^0.11.0
+
+flutter_icons:
+  adroid: "launcher_icon"
+  ios: true
+  image_path: "asset/logoVL.png"
 
 dev_dependencies:
   flutter_lints: ^2.0.0

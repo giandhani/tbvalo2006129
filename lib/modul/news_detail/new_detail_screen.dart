@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:valo/models/news.dart';
+import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class NewsDetailScreen extends StatelessWidget {
   NewsDetailScreen({super.key, required this.news});
@@ -27,7 +28,7 @@ class NewsDetailScreen extends StatelessWidget {
           Text(
             news.description!,
             textAlign: TextAlign.justify,
-          )
+          ),
         ]),
       ),
     );

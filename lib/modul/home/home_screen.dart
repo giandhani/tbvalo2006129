@@ -61,7 +61,7 @@ class _HomeScreenState extends State<HomeScreen> {
           icon: Icon(Icons.accessibility),
         ),
         BottomNavigationBarItem(
-          label: "Menu",
+          label: "Trailer",
           icon: Icon(Icons.menu),
         )
       ],
